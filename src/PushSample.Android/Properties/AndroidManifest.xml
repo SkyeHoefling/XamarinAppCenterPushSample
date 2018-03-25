@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.PushSample">
 	<uses-sdk android:minSdkVersion="15" />
+  <!-- app center push - START -->
+  <permission android:protectionLevel="signature" android:name="${applicationId}.permission.C2D_MESSAGE" />
+  <uses-permission android:name="${applicationId}.permission.C2D_MESSAGE" />
+  <!-- app center push - END -->
 	<application android:label="PushSample.Android"></application>
 </manifest>
