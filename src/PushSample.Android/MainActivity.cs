@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Microsoft.AppCenter.Push;
 
 namespace PushSample.Droid
 {
@@ -20,6 +21,7 @@ namespace PushSample.Droid
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
+            Push.SetSenderId("1058776561584");
             LoadApplication(new App());
         }
     }
