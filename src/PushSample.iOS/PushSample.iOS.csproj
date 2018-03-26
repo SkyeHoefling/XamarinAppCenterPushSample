@@ -133,32 +133,84 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Media.xcassets\Contents.json" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\Contents.json" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_40.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_60.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_58.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_87.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_80.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_120.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_180.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_20.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_29.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_76.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_152.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_167.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_1024.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_48.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_55.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_88.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_172.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_196.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_16.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_32.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_64.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_128.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_256.png" />
-    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_512.png" />
+    <ImageAsset Include="Resources\Media.xcassets\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_40.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_60.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_58.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_87.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_80.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_120.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_180.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_20.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_29.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_76.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_152.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_167.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_1024.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_48.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_55.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_88.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_172.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_196.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_16.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_32.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_64.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_128.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_256.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\AppIcon_512.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
