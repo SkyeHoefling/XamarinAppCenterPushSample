@@ -1,8 +1,11 @@
 # XamarinAppCenterPushSample
 Xamarin Forms Push Notification Sample using App Center Push
 
-# Setup
+This repo was built sepcifically as a code sample to go with a blog series I am writing at [Andrew Hoefling - Life Through Code](http://www.andrewhoefling.com/). This is a 3 part blog series starting with a basic configuration
 
+* [Push Notifications with App Center](http://www.andrewhoefling.com)
+
+# Setup
 
 ## 1. Configure App Center
 
